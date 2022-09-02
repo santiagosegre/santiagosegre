@@ -2,7 +2,7 @@
 
   I'm Santiago Segre!
 
-- 🔭 I’m currently working on a project mine.
+- 🔭 I am currently working on my own project.
 - 🌱 I’m currently learning HTML, CSS and JS.
 
 <div style="display: inline_block"><br>
