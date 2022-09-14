@@ -2,7 +2,7 @@
 # 👋  Hello, I'm Santiago Segre!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/santiago-segre-191407157)](https://www.linkedin.com/in/santiago-segre-191407157)
-[![Instagram Badge]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://instagram.com/santisegre)](https://instagram.com/santisegre)
+[![Instagram Badge]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santisegre)
  
 ## About me
   
