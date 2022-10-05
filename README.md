@@ -2,7 +2,7 @@
 # 👋 Olá, Sou Santiago Segre, tenho 27 anos!
 
 - 🔭 Atuamente estou trabalhando em projetos pessoais.
-- 📖 Estou estudando as ferramentas HTML, CSS and JavaScrtipt para aplicar no desenvolvimento Frontend.
+- 📖 Estou estudando as ferramentas HTML, CSS e JavaScrtipt para aplicar no desenvolvimento Frontend.
 - 🌱 Moro no Brasil.
 - 🧡 Adoro viajar e estar com minha família!
 
