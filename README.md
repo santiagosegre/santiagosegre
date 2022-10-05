@@ -1,14 +1,15 @@
 
-# 👋  Hello, I'm Santiago Segre!
+# 👋 Olá, Sou Santiago Segre, tenho 27 anos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/santiago-segre-191407157)](https://www.linkedin.com/in/santiago-segre-191407157)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/santisegre/)](https://www.instagram.com/santisegre/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://www.instagram.com/santisegre/)](https://www.instagram.com/santisegre/)
  
 ## About me
   
-- 🔭 I am currently working on my own project.
-- 🌱 Livin in Brazil.
-- 📖 I’m currently learning HTML, CSS and JS.
+- 🔭 Atuamente estou trabalhando em projetos pessoais, me dedicando para Frontend - Desenvolvimento WEB.
+- 📖 Estou estudando as ferramentas HTML, CSS and JavaScrtipt.
+- 🌱 Moro no Brasil.
+- 🧡 Adoro viajar e estar com minha família!
 
 ## 🛠  Technologies and tools
 
