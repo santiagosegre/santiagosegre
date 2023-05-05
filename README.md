@@ -1,5 +1,5 @@
 
-# 👋 Olá, Sou Santiago Segre, tenho 27 anos!
+# 👋 Olá, Sou Santiago Segre, tenho 28 anos!
 
 - 🔭 Atuamente estou trabalhando em projetos pessoais.
 - 📖 Estou estudando as ferramentas HTML, CSS e JavaScrtipt para aplicar no desenvolvimento Frontend.
